@@ -1,6 +1,7 @@
 #numbers 
 
-import math
+import math;
+
 
 
 numbersOne  = 10; 
@@ -24,6 +25,9 @@ print(x);
 
 raiz =  math.sqrt(x) 
 print(raiz)
+
+print(round)
+print(math.factorial(total));
 
  
 
