@@ -1,11 +1,12 @@
 #numbers 
 
+from cmath import cos
 import math;
 
 
 
-numbersOne  = 10; 
-number = 12 ; 
+numbersOne  = 5; 
+number = 3 ; 
 total =  numbersOne + number;
 
 #complex numbers
@@ -28,6 +29,13 @@ print(raiz)
 
 print(round)
 print(math.factorial(total));
+
+math.isqrt(total);
+# rounding =  round(total);
+print(cos.rounding);
+
+powering = math.power(total , 3);
+print(powering);
 
  
 
