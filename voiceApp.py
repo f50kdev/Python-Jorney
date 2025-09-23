@@ -9,8 +9,8 @@ English = "en";
 portuguese = "en"
 franch = "fr";
 
-tts = gTTS(texto , lang=lingua );
-sweet = gTTS(honey , lang=language);
+tts = gTTS(texto , lang=English );
+sweet = gTTS(Information , lang=English);
 
 
 tts.save("audio.mp3");
@@ -27,7 +27,7 @@ math.sqrt(total)
 
 test = f"The some of two values s ,{total}";
 
-voice = gTTS( test ,lang=lingua )
+voice = gTTS( test ,lang=English );
 voice.save("soma.mp3");
 
 os.system('ffplay -autoexit -nodisp soma.mp3');
