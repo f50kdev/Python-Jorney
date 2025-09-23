@@ -11,7 +11,7 @@ total =  numbersOne + number;
 
 #complex numbers
 
-print(1==1); 
+print(1!=1); 
 print(1+1); 
 print(1*2)
 print(5-2);
@@ -19,7 +19,7 @@ print(10/2);
 print(100 ** 100*23);
 print(10//2);
 
-x = 10;
+x = 12;
 y  = x + 3  ;
 x += 3 ; 
 print(x);

@@ -25,7 +25,7 @@ print(z.real);
 #working whit numbers 
 
 Number =1  ; 
-NumberTwo = 23 - 1j; 
+NumberTwo = 23 - 1j 
 
 roundig = round(2.4);
 print(roundig)  
