@@ -4,9 +4,10 @@ import os  ;
 import math ;
 
 texto = "Welcome Faustino";
-honey = " Hello sweet Girl , you sre so sexy"; 
-lingua = "en";
-language = "en"
+Information = " Hello sweet Girl , you sre so sexy"; 
+English = "en";
+portuguese = "en"
+franch = "fr";
 
 tts = gTTS(texto , lang=lingua );
 sweet = gTTS(honey , lang=language);
