@@ -4,7 +4,7 @@ import os  ;
 import math ;
 
 texto = "Welcome Faustino";
-honey = " Hello sweet Girl , I love u  honey"; 
+honey = " Hello sweet Girl , you sre so sexy"; 
 lingua = "en";
 language = "en"
 
@@ -13,7 +13,7 @@ sweet = gTTS(honey , lang=language);
 
 
 tts.save("audio.mp3");
-sweet.save("SweetGirls"); 
+sweet.save("SweetGirls, i love u so much"); 
 
 os.system('ffplay -autoexit -nodisp SweetGirls')
 
@@ -26,10 +26,7 @@ math.sqrt(total)
 
 test = f"The some of two values s ,{total}";
 
-
 voice = gTTS( test ,lang=lingua )
 voice.save("soma.mp3");
 
-
-
-os.system('ffplay -autoexit -nodisp soma.mp3')
+os.system('ffplay -autoexit -nodisp soma.mp3');
