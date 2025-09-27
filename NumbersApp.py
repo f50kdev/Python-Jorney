@@ -37,6 +37,10 @@ print(cos.rounding);
 powering = math.power(total , 3);
 print(powering);
 
+abs(-2.9)
+
+math.sqrt(90); 
+
  
 
 
