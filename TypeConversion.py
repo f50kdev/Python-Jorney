@@ -8,7 +8,7 @@ Name = input("Inser Your name ");
 print(f" welcome Mister {Name}");
 
 print(f"Mister {Name} inser the first value");
-firstValue = int(input("Insert the value"));
+firstValue = int(input("Insert the value of"));
 secondValue   = int(input("Insert the value "))
 
 total = firstValue + secondValue;

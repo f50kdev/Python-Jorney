@@ -20,7 +20,7 @@ os.system('ffplay -autoexit -nodisp SweetGirls')
 
 #soma de valor 
 firstValue  =  2 ;
-secondValue =  4 ;
+secondValue =  3j ;
 
 total  = secondValue + firstValue ;
 math.sqrt(total)
