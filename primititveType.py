@@ -1,7 +1,10 @@
-from tarfile import data_filter
-
-
 rating  = 4.99; 
-studenzcounts = 1000; 
-cours_name = "Python programming";
-print(type.data_filter(rating)
+studentsCounts = 1000; 
+cours_Name = "Python programming";
+
+print("Rating:", rating)
+print("Students count:", studentsCounts)
+print("Course name:", cours_Name)
+print("Length of course name:", len(cours_Name)); 
+print(cours_Name[0:]);
+print(cours_Name[:])
