@@ -1,5 +1,6 @@
 comparison = 10 >= 20; 
-worlds = "hello " == "hellO "
-dif
+worlds = "hello " == "hellO"
 print(comparison);
 print(worlds)
+
+
