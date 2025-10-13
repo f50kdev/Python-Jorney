@@ -24,5 +24,14 @@ print(message);
 alerta = "value added" if  age >= 30 else "not added";
 print(alerta);
 
+comparando =  age = age-10 if  age <= 2  else input(" inser your value");
 
 
+#logicals 
+
+high_income = true ; 
+good_credit = true; 
+if high_income and good_credit: 
+  print("eligible");
+else:
+  print("not eligible");
